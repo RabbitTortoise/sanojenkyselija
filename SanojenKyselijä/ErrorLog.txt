@@ -1,0 +1,268 @@
+2020-11-22 17:3:2
+Opening Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Opening Sanakokeet/Sanakoe 1.txt
+Opening Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Opening Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Opening Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Opening Sanakokeet/Sanojen Formaatti - Copy.txt
+Opening Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 17:4:33
+Avataan tiedostoa Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedostoSanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedostoa Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedostoSanakokeet/Sanakoe 1.txt
+Avataan tiedostoa Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Suljetaan tiedostoSanakokeet/Sanojen Formaatti - Copy (2).txt
+Avataan tiedostoa Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Suljetaan tiedostoSanakokeet/Sanojen Formaatti - Copy (3).txt
+Avataan tiedostoa Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Suljetaan tiedostoSanakokeet/Sanojen Formaatti - Copy (4).txt
+Avataan tiedostoa Sanakokeet/Sanojen Formaatti - Copy.txt
+Suljetaan tiedostoSanakokeet/Sanojen Formaatti - Copy.txt
+Avataan tiedostoa Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedostoSanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:11:11
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:11:37
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:39:33
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:45:58
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:47:7
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:47:54
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 18:49:30
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 19:35:26
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (10).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (10).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (2).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (2).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (3).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (3).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (4).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (4).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (5).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (5).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (6).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (6).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (7).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (7).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (8).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (8).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (9).txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy (9).txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta - Copy.txt
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (10).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (10).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (2).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (2).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (3).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (3).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (4).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (4).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (5).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (5).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (6).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (6).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (7).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (7).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (8).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (8).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy (9).txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy (9).txt
+Avataan tiedosto Sanakokeet/Sanakoe 1 - Copy.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1 - Copy.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (10).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (10).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (2).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (3).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (4).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (5).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (5).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (6).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (6).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (7).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (7).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (8).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (8).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy (9).txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy (9).txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti - Copy.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti - Copy.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 20:31:15
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2020-11-22 20:41:34
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt
+2021-1-11 8:30:57
+Avataan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Sanan luvun lopetusmerkkiä ']' ei tullut vastaan!
+Rivistä ei jostain syystä saatu kaikkia sanoja luettua. Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+Jokin meni pieleen sanarivin lukemisessa! Kyseinen rivi: [0][marja[1][bär]; Virhe sijaitsee tässä!
+JOKU MENI PIELEEN TIEDOSTON SISÄLLÖN LUKEMISESSA!
+Suljetaan tiedosto Sanakokeet/Esimerkki Virheellisestä Tiedostosta.txt
+Avataan tiedosto Sanakokeet/Sanakoe 1.txt
+Suljetaan tiedosto Sanakokeet/Sanakoe 1.txt
+Avataan tiedosto Sanakokeet/Sanojen Formaatti.txt
+Suljetaan tiedosto Sanakokeet/Sanojen Formaatti.txt

@@ -1,0 +1,11 @@
+[Sanakyselijä][Suomi][Ruotsi];
+[0][auto][1][bil];
+[0][tori][1][torg];
+[0][hauska][1][rolig];
+[0][haukka][1][falk];
+[0][marja[1][bär]; Virhe sijaitsee tässä!
+[0][mahtava][1][grandios];
+[0][katu][1][gata];
+[0][Tukholma][1][Stockholm];
+[0][Oulu][1][Uleåborg];
+[0][Ruotsi][1][Svenska];
